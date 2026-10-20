@@ -187,7 +187,7 @@ http://127.0.0.1:8000/docs
 
 ### API
 
-https://web-production-05dc20.up.railway.app
+https://documind-production-2d9b.up.railway.app
 
 ### Swagger Documentation
 
